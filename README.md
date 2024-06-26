@@ -62,6 +62,7 @@ mejor resultado:
 Result Sin Data Aug --> 0.64030
 
 Result conData Aug --> 0.63960
+
 El learning rate del caso con data augmentation no afecta mucho, se llega rapido 
 al maximo. Fui muy generosa con la patience por eso es que se realizan tantas epochs. 
 
